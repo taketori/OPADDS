@@ -1,4 +1,4 @@
 OPADDS
 ======
 
-Osaka Animal walfare Division Animals Database System
+Osaka Pref. Animal welfare Division Database System
